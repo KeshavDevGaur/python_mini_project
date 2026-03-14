@@ -34,3 +34,12 @@ A simple command-line game similar to Rock-Paper-Scissors where the player compe
 - File handling
 - CSV file processing
 - Basic problem solving
+
+
+
+---
+
+## Author
+
+Keshav Dev Gaur  
+GitHub: https://github.com/KeshavDevGaur
